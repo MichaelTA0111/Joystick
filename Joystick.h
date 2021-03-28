@@ -10,6 +10,8 @@ enum Direction { NONE = 0, LEFT = 1, RIGHT = 2, UP = 3, DOWN = 4 };
 
 /**
  * A joystick which can be used to check the direction a joystick is held
+ * Inspired by the Button class which can be found here:
+ * https://github.com/drlim2u/button
  * @author - MichaelTA
  */
 class Joystick
