@@ -2,7 +2,7 @@
 A generic joystick class for use in C++ which can return the direction held, after debouncing, as one of five directions (NONE, LEFT, RIGHT, UP, DOWN).
 Inspired by the Button class which can be found here: https://github.com/drlim2u/button
 
-##Example
+## Example
 This code was written for use in the official online compiler for Mbed:
 
 ```C++
